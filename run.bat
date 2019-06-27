@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy RemoteSigned .\watchProcess.ps1
